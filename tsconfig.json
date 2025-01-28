@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/content/TextAnimations/SplitText/SplitText.jsx", "src/app/Home/route.tsx", "src/content/Components/TiltedScroll.tsx", "src/components/Main/FileTree.jsx", "src/components/Main/AnimatedBeam.tsx", "src/app/page.jsx", "src/content/Animations/AnimatedContent/AnimatedContent.jsx", "src/app/pages/F_Upload/route.js"],
   "exclude": ["node_modules"]
 }
